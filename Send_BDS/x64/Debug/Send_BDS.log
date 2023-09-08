@@ -1,0 +1,4 @@
+﻿  Send_BDS.cpp
+E:\华为云盘\Lab\TcpIp通信\5.4Read&Analyse_BDS\Send_BDS\Send_BDS.cpp(181): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\华为云盘\Lab\TcpIp通信\5.4Read&Analyse_BDS\Send_BDS\Send_BDS.cpp(160,7): warning C4101: “buff”: 未引用的局部变量
+  Send_BDS.vcxproj -> E:\华为云盘\Lab\TcpIp通信\5.4Read&Analyse_BDS\x64\Debug\Send_BDS.exe
